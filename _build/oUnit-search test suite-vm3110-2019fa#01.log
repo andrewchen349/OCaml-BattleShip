@@ -1,0 +1,90 @@
+2019-12-08T22:30:06+00:00 vm3110-2019fa#01 I: Start test search test suite:0:Valid fire command.
+2019-12-08T22:30:06+00:00 vm3110-2019fa#01 I: Test search test suite:0:Valid fire command is successful.
+2019-12-08T22:30:06+00:00 vm3110-2019fa#01 I: End test search test suite:0:Valid fire command.
+2019-12-08T22:30:06+00:00 vm3110-2019fa#01 I: Start test search test suite:3:Valid checkship command.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Test search test suite:3:Valid checkship command is successful.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: End test search test suite:3:Valid checkship command.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Start test search test suite:5:Valid money command.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Test search test suite:5:Valid money command is successful.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: End test search test suite:5:Valid money command.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Start test search test suite:6:Valid shop command.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Test search test suite:6:Valid shop command is successful.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: End test search test suite:6:Valid shop command.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Start test search test suite:8:Valid one player command.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Test search test suite:8:Valid one player command is successful.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: End test search test suite:8:Valid one player command.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Start test search test suite:10:Valid Medium level command.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Test search test suite:10:Valid Medium level command is successful.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: End test search test suite:10:Valid Medium level command.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Start test search test suite:12:Valid Instruction command.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Test search test suite:12:Valid Instruction command is successful.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: End test search test suite:12:Valid Instruction command.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Start test search test suite:14:Valid place ship command.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Test search test suite:14:Valid place ship command is successful.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: End test search test suite:14:Valid place ship command.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Start test search test suite:15:Valid ships init state.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Test search test suite:15:Valid ships init state is successful.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: End test search test suite:15:Valid ships init state.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Start test search test suite:17:Valid shots init state.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Test search test suite:17:Valid shots init state is successful.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: End test search test suite:17:Valid shots init state.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Start test search test suite:19:Valid shop init state.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Test search test suite:19:Valid shop init state is successful.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: End test search test suite:19:Valid shop init state.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Start test search test suite:21:Valid money init state.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Test search test suite:21:Valid money init state is successful.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: End test search test suite:21:Valid money init state.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Start test search test suite:23:Valid inventory init state.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Test search test suite:23:Valid inventory init state is successful.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: End test search test suite:23:Valid inventory init state.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Start test search test suite:25:Test shot_results adding $ when player 1 shoots player 2's ship.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Test search test suite:25:Test shot_results adding $ when player 1 shoots player 2's ship is successful.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: End test search test suite:25:Test shot_results adding $ when player 1 shoots player 2's ship.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Start test search test suite:27:Test shot_results adding $ when player 1 misses player 2's ships.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Test search test suite:27:Test shot_results adding $ when player 1 misses player 2's ships is successful.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: End test search test suite:27:Test shot_results adding $ when player 1 misses player 2's ships.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Start test search test suite:29:Test Function Ships_Sunk Expected Result: False.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Test search test suite:29:Test Function Ships_Sunk Expected Result: False is successful.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: End test search test suite:29:Test Function Ships_Sunk Expected Result: False.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Start test search test suite:31:Test Function Ship_Hit_Number Mutiple Ships.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Test search test suite:31:Test Function Ship_Hit_Number Mutiple Ships is successful.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: End test search test suite:31:Test Function Ship_Hit_Number Mutiple Ships.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Start test search test suite:33:Test Function Ship_Hit_Number.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Test search test suite:33:Test Function Ship_Hit_Number is successful.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: End test search test suite:33:Test Function Ship_Hit_Number.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Start test search test suite:36:Test Is_Ship_Hit True.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Test search test suite:36:Test Is_Ship_Hit True is successful.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: End test search test suite:36:Test Is_Ship_Hit True.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Start test search test suite:38:Test Is_Wounded_Coordinate False.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Test search test suite:38:Test Is_Wounded_Coordinate False is successful.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: End test search test suite:38:Test Is_Wounded_Coordinate False.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Start test search test suite:40:Test add_ships valid ship.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Test search test suite:40:Test add_ships valid ship is successful.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: End test search test suite:40:Test add_ships valid ship.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Start test search test suite:41:Test add_ships fully out of bounds ships.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Test search test suite:41:Test add_ships fully out of bounds ships is successful.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: End test search test suite:41:Test add_ships fully out of bounds ships.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Start test search test suite:43:Test add_ships on ship placed at the location of another ship.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Test search test suite:43:Test add_ships on ship placed at the location of another ship is successful.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: End test search test suite:43:Test add_ships on ship placed at the location of another ship.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Start test search test suite:45:Test Num_Hits_Total.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Test search test suite:45:Test Num_Hits_Total is successful.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: End test search test suite:45:Test Num_Hits_Total.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Start test search test suite:47:Test shot_results valid shot.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Test search test suite:47:Test shot_results valid shot is successful.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: End test search test suite:47:Test shot_results valid shot.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Start test search test suite:49:Test shot_results Duplicate shot.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Test search test suite:49:Test shot_results Duplicate shot is successful.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: End test search test suite:49:Test shot_results Duplicate shot.
+2019-12-08T22:30:07+00:00 vm3110-2019fa#01 I: Start test search test suite:51:Test remove inventory.
+2019-12-08T22:30:08+00:00 vm3110-2019fa#01 I: Test search test suite:51:Test remove inventory is successful.
+2019-12-08T22:30:08+00:00 vm3110-2019fa#01 I: End test search test suite:51:Test remove inventory.
+2019-12-08T22:30:08+00:00 vm3110-2019fa#01 I: Start test search test suite:53:Test buy items when the player lacks the funds for a valid item.
+2019-12-08T22:30:08+00:00 vm3110-2019fa#01 I: Test search test suite:53:Test buy items when the player lacks the funds for a valid item is successful.
+2019-12-08T22:30:08+00:00 vm3110-2019fa#01 I: End test search test suite:53:Test buy items when the player lacks the funds for a valid item.
+2019-12-08T22:30:08+00:00 vm3110-2019fa#01 I: Start test search test suite:55:Test coordinate_color for a hit ship coord.
+2019-12-08T22:30:08+00:00 vm3110-2019fa#01 I: Test search test suite:55:Test coordinate_color for a hit ship coord is successful.
+2019-12-08T22:30:08+00:00 vm3110-2019fa#01 I: End test search test suite:55:Test coordinate_color for a hit ship coord.
+2019-12-08T22:30:08+00:00 vm3110-2019fa#01 I: Start test search test suite:57:Test coordinate_color for a water coord.
+2019-12-08T22:30:08+00:00 vm3110-2019fa#01 I: Test search test suite:57:Test coordinate_color for a water coord is successful.
+2019-12-08T22:30:08+00:00 vm3110-2019fa#01 I: End test search test suite:57:Test coordinate_color for a water coord.
